@@ -80,6 +80,10 @@ This is a react based app and the other packages used are as follows
 
 # deployments
 
-- The backend was deployed in the render.com.
+- The backend was deployed in the render.com. and the [deployed url is](https://ai-3d-product-backend.onrender.com)
+- and the front end was [deployed in netlify and the url is](https://resonant-seahorse-56e6c4.netlify.app)
+- and replace the fetch url in customizer.jsx and config.jsx with the backend url
 - then in the client fetch req ve to change the backend url from the localhost
 - the client was deployed in the vercel `npm run build`
+
+
